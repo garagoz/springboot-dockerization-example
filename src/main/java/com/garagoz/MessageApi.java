@@ -10,6 +10,6 @@ public class MessageApi {
 
     @GetMapping
     public String showMessage() {
-        return "Hello world REST API";
+        return "Hello World REST API";
     }
 }
